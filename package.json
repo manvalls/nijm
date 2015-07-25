@@ -1,0 +1,18 @@
+{
+  "name": "nijm",
+  "version": "1.0.0",
+  "description": "A minifier that keeps your code readable",
+  "main": "main.js",
+  "dependencies": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/manvalls/nijm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/manvalls/nijm/issues"
+  },
+  "author": "Manuel Valls Fernández <manolo@vlrz.es>",
+  "license": "LGPL-3.0"
+}
