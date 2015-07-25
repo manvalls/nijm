@@ -1,6 +1,7 @@
-# Non-invasive JavaScript minifier [![Build Status][travis-image]][travis-url]
+# Non-invasive JavaScript minifier
 
+```javascript
+var nijm = require('nijm');
 
-
-[travis-image]: https://travis-ci.org/manvalls/nijm.svg?branch=master
-[travis-url]: https://travis-ci.org/manvalls/nijm
+minSrc = nijm(src);
+```
