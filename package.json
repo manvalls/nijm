@@ -1,9 +1,12 @@
 {
   "name": "nijm",
   "version": "1.2.3",
-  "description": "A minifier that keeps your code readable",
+  "description": "A JavaScript minifier that keeps your code readable",
   "main": "main.js",
-  "dependencies": {},
+  "bin": "bin.js",
+  "dependencies": {
+    "u-help": ""
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/manvalls/nijm.git"

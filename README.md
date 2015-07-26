@@ -21,3 +21,9 @@ By default nijm keeps some line feeds to make debugging easier. To avoid this an
 ```javascript
 uglySrc = nijm(src,true);
 ```
+
+It also has an executable!
+
+```
+nijm input.js > output.js
+```
