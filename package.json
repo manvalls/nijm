@@ -1,6 +1,6 @@
 {
   "name": "nijm",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A minifier that keeps your code readable",
   "main": "main.js",
   "dependencies": {},
