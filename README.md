@@ -1,6 +1,6 @@
 # Non-invasive JavaScript minifier
 
-`nijm` is a very simple JavaScript minifier, similar to Crockford's JSMin, with support for ES2015 template strings. It's implemented in less than 20 JavaScript lines.
+`nijm` is a very simple JavaScript minifier, similar to Crockford's JSMin, with support for ES2015 template strings.
 
 ## Usage
 
