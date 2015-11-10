@@ -5,7 +5,7 @@
   "main": "main.js",
   "bin": "bin.js",
   "dependencies": {
-    "u-help": ""
+    "u-help": "^1.0.0"
   },
   "repository": {
     "type": "git",
