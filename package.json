@@ -1,6 +1,6 @@
 {
   "name": "nijm",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "A JavaScript minifier that keeps your code readable",
   "main": "main.js",
   "bin": "bin.js",
